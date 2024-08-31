@@ -15,5 +15,5 @@ def count(string,sub_string,flag):
 	   return string.count(sub_string)
 	   		
 
-print(count("suuuuuunidhi","uu",True))
+print(count("sgggggs","gg",True))
 	
